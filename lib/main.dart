@@ -1,9 +1,9 @@
 // ignore_for_file: unnecessary_null_comparison
 
 import 'package:flutter/material.dart';
+import 'package:adaptive_navigation/adaptive_navigation.dart';
 
 import 'src/app.dart';
-import 'src/env.dart';
 import 'src/settings/settings_controller.dart';
 import 'src/settings/settings_service.dart';
 
