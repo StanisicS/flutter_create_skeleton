@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.15)
+cmake_minimum_required(VERSION 3.14)
 project(flutter_create_skeleton LANGUAGES CXX)
 
 set(BINARY_NAME "flutter_create_skeleton")
